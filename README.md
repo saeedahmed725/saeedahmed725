@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Saeed Ahmed from Egypt<br><br>- 🔭 I’m working as ...<br>- 📚 Computer Science And Artificial Intelligence<br>- ⚡ Flutter developer</p>
+<p align="left">I'm Saeed Ahmed from Egypt<br><br>- 🔭 I’m working as fluttr developedr<br>- 📚 Computer Science And Artificial Intelligence<br>- ⚡ Flutter developer</p>
 
 ###
 
