@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-1/433926893_1853764465138048_3338000139187676368_n.jpg?stp=dst-jpg_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uXFR_JDPYWQQ7kNvgFYemvU&_nc_ht=scontent.fcai19-8.fna&oh=00_AYDheowmrvQ1vGlmuF_SH0oTmJV31W6jAfeZhy_M3Cuivw&oe=667A7102"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Saeed Ahmed from Egypt<br><br>- 🔭 I’m working as fluttr developedr<br>- 📚 Computer Science And Artificial Intelligence<br>- ⚡ Flutter developer</p>
+<p align="left">I'm Saeed Ahmed from Egypt<br><br>- 🔭 I’m working as flutter developedr<br>- 📚 Computer Science And Artificial Intelligence<br>- ⚡ Flutter developer</p>
 
 ###
 
