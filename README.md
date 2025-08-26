@@ -34,7 +34,7 @@ I'm a **versatile Flutter Developer** from Alexandria, Egypt, passionate about b
 - 🎓 **Education:** Bachelor of Computer Science – Artificial Intelligence (Pharos University)
 - 🌍 **Location:** Alexandria, Egypt
 - 💼 **Experience:** Real estate apps, Islamic applications, chess games, and more
-- 🗣️ **Languages:** Arabic (Native), English (Fluent), German (Fluent)
+- 🗣️ **Languages:** Arabic (Native), English
 - ⚡ **Specialties:** Clean Architecture, State Management, Firebase Integration
 
 ## 🛠️ Technical Skills
